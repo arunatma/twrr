@@ -1,0 +1,54 @@
+particulars,posting_date,cost_center,voucher_type,debit,credit,net_balance
+Opening Balance,,,,,,0.000000
+Being Payment Gateway Charges Debited - ,2022-08-31,NSE-EQ - Z,Journal Entry,10.350000,0.000000,-10.350000
+Being amount received from --87727 through NEST Payment Gateway,2022-08-31,NSE-EQ - Z,Bank Receipts,0.000000,5000.000000,4989.650000
+PAYOUT OF FUNDS TO  BANK LTD  A/C NUMBER AS PER WITHDRAWAL REQUEST MADE,2022-09-28,NSE-EQ - Z,Bank Payments,4900.000000,0.000000,89.650000
+Settlement Value for 2022195,2022-10-18,NSE-EQ - Z,Book Voucher,14337.083000,0.000000,-14247.433000
+Being amount received from --57674 through NEST Payment Gateway,2022-10-18,NSE-EQ - Z,Bank Receipts,0.000000,10000.000000,-4247.433000
+Being amount received from --60393 through NEST Payment Gateway,2022-10-18,NSE-EQ - Z,Bank Receipts,0.000000,5000.000000,752.567000
+Being Payment Gateway Charges Debited - ,2022-10-18,NSE-EQ - Z,Journal Entry,10.350000,0.000000,742.217000
+Being Payment Gateway Charges Debited - ,2022-10-18,NSE-EQ - Z,Journal Entry,10.350000,0.000000,731.867000
+Settlement Value for 2022213,2022-11-11,NSE-EQ - Z,Book Voucher,30749.064000,0.000000,-30017.197000
+Being Payment Gateway Charges Debited - ,2022-11-11,NSE-EQ - Z,Journal Entry,10.350000,0.000000,-30027.547000
+Being Payment Gateway Charges Debited - ,2022-11-11,NSE-EQ - Z,Journal Entry,10.350000,0.000000,-30037.897000
+Being amount received from --90395 through NEST Payment Gateway,2022-11-11,NSE-EQ - Z,Bank Receipts,0.000000,30000.000000,-37.897000
+Being amount received from --95955 through NEST Payment Gateway,2022-11-11,NSE-EQ - Z,Bank Receipts,0.000000,500.000000,462.103000
+Settlement Value for 2022214,2022-11-15,NSE-EQ - Z,Book Voucher,15169.166000,0.000000,-14707.063000
+Being amount received from --74234 through NEST Payment Gateway,2022-11-15,NSE-EQ - Z,Bank Receipts,0.000000,15000.000000,292.937000
+Being Payment Gateway Charges Debited - ,2022-11-15,NSE-EQ - Z,Journal Entry,10.350000,0.000000,282.587000
+Settlement Value for 2022222,2022-11-25,NSE-EQ - Z,Book Voucher,11917.942000,0.000000,-11635.355000
+Being Payment Gateway Charges Debited - ,2022-11-25,NSE-EQ - Z,Journal Entry,10.350000,0.000000,-11645.705000
+Being amount received from --12630 through NEST Payment Gateway,2022-11-25,NSE-EQ - Z,Bank Receipts,0.000000,13000.000000,1354.295000
+Being Payment Gateway Charges Debited - ,2022-12-05,NSE-EQ - Z,Journal Entry,10.350000,0.000000,1343.945000
+Being amount received from --96315 through NEST Payment Gateway,2022-12-05,NSE-EQ - Z,Bank Receipts,0.000000,15000.000000,16343.945000
+Settlement Value for 2022229,2022-12-06,NSE-EQ - Z,Book Voucher,16275.928000,0.000000,68.017000
+Settlement Value for 2022238,2022-12-19,NSE-EQ - Z,Book Voucher,16054.105000,0.000000,-15986.088000
+Being amount received from --93575 through NEST Payment Gateway,2022-12-19,NSE-EQ - Z,Bank Receipts,0.000000,16000.000000,13.912000
+Being Payment Gateway Charges Debited - ,2022-12-19,NSE-EQ - Z,Journal Entry,10.350000,0.000000,3.562000
+Settlement Value for 2022242,2022-12-23,NSE-EQ - Z,Book Voucher,9104.367000,0.000000,-9100.805000
+Being amount received from --64965 through NEST Payment Gateway,2022-12-23,NSE-EQ - Z,Bank Receipts,0.000000,15000.000000,5899.195000
+Being Payment Gateway Charges Debited - ,2022-12-23,NSE-EQ - Z,Journal Entry,10.350000,0.000000,5888.845000
+Settlement Value for 2022243,2022-12-26,NSE-EQ - Z,Book Voucher,25692.162000,0.000000,-19803.317000
+Being Payment Gateway Charges Debited - ,2022-12-26,NSE-EQ - Z,Journal Entry,10.350000,0.000000,-19813.667000
+Being amount received from --34954 through NEST Payment Gateway,2022-12-26,NSE-EQ - Z,Bank Receipts,0.000000,20000.000000,186.333000
+Being amount received from --33975 through NEST Payment Gateway,2023-02-07,NSE-EQ - Z,Bank Receipts,0.000000,61000.000000,61186.333000
+Settlement Value for 2023026,2023-02-07,NSE-EQ - Z,Book Voucher,61041.120000,0.000000,145.213000
+Being Payment Gateway Charges Debited - ,2023-02-07,NSE-EQ - Z,Journal Entry,10.350000,0.000000,134.863000
+Settlement Value for 2023041,2023-03-01,NSE-EQ - Z,Book Voucher,24336.028000,0.000000,-24201.165000
+Being amount received from --77781 through NEST Payment Gateway,2023-03-01,NSE-EQ - Z,Bank Receipts,0.000000,24500.000000,298.835000
+Being Payment Gateway Charges Debited - ,2023-03-01,NSE-EQ - Z,Journal Entry,10.350000,0.000000,288.485000
+Being Payment Gateway Charges Debited - ,2023-03-16,NSE-EQ - Z,Journal Entry,10.350000,0.000000,278.135000
+Settlement Value for 2023051,2023-03-16,NSE-EQ - Z,Book Voucher,9860.991000,0.000000,-9582.856000
+Being amount received from --90671 through NEST Payment Gateway,2023-03-16,NSE-EQ - Z,Bank Receipts,0.000000,10000.000000,417.144000
+Settlement Value for 2023053,2023-03-20,NSE-EQ - Z,Book Voucher,33781.519000,0.000000,-33364.375000
+Being Payment Gateway Charges Debited - ,2023-03-20,NSE-EQ - Z,Journal Entry,10.350000,0.000000,-33374.725000
+Being amount received from --95510 through NEST Payment Gateway,2023-03-20,NSE-EQ - Z,Bank Receipts,0.000000,33500.000000,125.275000
+Being AMC charges for Demat for the period Apr 16 to Mar 17,2023-04-10,NSE-EQ - Z,Journal Entry,207.000000,0.000000,-81.725000
+Settlement Value for 2023153,2023-08-11,NSE-EQ - Z,Book Voucher,59892.986000,0.000000,-59974.711000
+Being Payment Gateway Charges Debited - ,2023-08-11,NSE-EQ - Z,Journal Entry,10.620000,0.000000,-59985.331000
+Being amount received from --59817 through NEST Payment Gateway,2023-08-11,NSE-EQ - Z,Bank Receipts,0.000000,60000.000000,14.669000
+Being amount received from -14576 through NEST Payment Gateway,2023-10-16,NSE-EQ - Z,Bank Receipts,0.000000,100000.000000,100014.669000
+Being Payment Gateway Charges Debited - ,2023-10-16,NSE-EQ - Z,Journal Entry,10.620000,0.000000,100004.049000
+Settlement Value for 2023225,2023-11-27,NSE-EQ - Z,Book Voucher,72404.233000,0.000000,-71993.678000
+Being amount received from -75292 through NEST Payment Gateway,2023-11-27,NSE-EQ - Z,Bank Receipts,0.000000,73000.000000,995.702000
+Closing Balance,,,,,,995.702000
