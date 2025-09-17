@@ -10,8 +10,8 @@ For more information, see the [Modified Dietz method](https://en.wikipedia.org/w
 
 ### Prerequisites
 
-- Python (compatible version)
-- Required Python packages (if any, specify here)
+- Python (>= 3.9)
+- Required Python packages (as specified in requirements.txt)
 
 ### Running the Script
 
