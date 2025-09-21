@@ -9,6 +9,8 @@ from collections import deque
 from datetime import datetime, date
 import math
 import base64
+import requests
+from io import StringIO
 
 
 def get_download_link(filename, filenamelong, filetype):
@@ -41,19 +43,28 @@ def prod_across(row):
 
 
 def get_scheme_codes():
-    with open('./mf_codes.txt', 'r') as fp:
-        list_code = []
-        line = fp.readline()
-        while line:
-            words = line.strip().split(';')
-            if len(words) > 5:
-                list_code.append([words[i] for i in [0, 1, 3]])
-            line = fp.readline()
-
+    url = "https://portal.amfiindia.com/spages/NAVAll.txt"
+    
+    # Fetch the data
+    response = requests.get(url)
+    response.raise_for_status()  # Raise an error for bad status codes
+    
+    # Read the content
+    content = response.text
+    
+    # Process the data
+    list_code = []
+    lines = content.split('\n')
+    
+    for line in lines:
+        words = line.strip().split(';')
+        if len(words) > 5:
+            list_code.append([words[i] for i in [0, 1, 3]])
+    
     df_codes = pd.DataFrame(list_code)
     df_codes.columns = ['schemeCode', 'schemeISIN', 'schemeName']
     return df_codes
-
+    
 @st.cache_data
 def get_nav(scheme_code = '122639'):
     mf_url = 'https://api.mfapi.in/mf/' + scheme_code
